@@ -1,0 +1,423 @@
+[++~#FFEEEE~item changer slot1++]
+
+[~#FFEEEE~***info (NOTE)***]
+00000000 00000000
+{These codes spawn the selected item in the inventory slot 1 (save and quit to activate the real items after putting it in inventory) All codes Made By Foxy#XTN}
+
+[~#FFEEEE~empty]
+00429600 00FF0000
+
+[++~#FFEEEE~useless items++]
+
+[~#FFEEEE~empty as item (no percentage)]
+00429600 00FF00F4
+
+[~#FFEEEE~empty as item (0%)]
+00429608 00000000
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (0%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (1111%)]
+00429608 00000457
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (1111%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (2222%)]
+00429608 000008AE
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (2222%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (3333%)]
+00429608 00000D05
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (3333%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (4444%)]
+00429608 0000115C
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (4444%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (5555%)]
+00429608 000015B3
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (5555%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (6666%)]
+00429608 00001AA0
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (6666%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (7777%)]
+00429608 00001E61
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (7777%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (8888%)]
+00429608 000022B8
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (8888%)  needs place like a normal item (so its not an empty inv slot)}
+
+[~#FFEEEE~empty as item (9999%)]
+00429608 0000270F
+0042960C 00000064
+00429600 00FF00F4
+D2000000 00000000
+{empty as a item with (9999%)  needs place like a normal item (so its not an empty inv slot)}
+
+[--]
+
+[++~#FFEEEE~usable items++]
+
+[~#FFEEEE~trap]
+00429600 00FF1803
+
+[~#FFEEEE~metal detector]
+00429600 00FF1C03
+
+[~#FFEEEE~pro fishing rod]
+00429600 00FF1B03
+
+[~#FFEEEE~cooking stove]
+00429600 00FF1703
+
+[~#FFEEEE~tent]
+00429600 00FF3C03
+
+[~#FFEEEE~snowboard]
+00429600 00FF4403
+
+[~#FFEEEE~binoculars]
+00429600 00FF1603
+
+[~#FFEEEE~field binoculars]
+00429600 00FF1A03
+
+[~#FFEEEE~fishing rod]
+00429600 00FF1903
+
+[--]
+
+[++~#FFEEEE~clothes++]
+
+[++~#FFEEEE~normal++]
+
+[~#FFEEEE~normal jacket]
+00429604 0000270F
+00429600 00FF2A04
+
+[~#FFEEEE~normal backpack]
+00429604 0000270F
+00429600 00FF2C04
+
+[~#FFEEEE~normal trousers]
+00429604 0000270F
+00429600 00FF2B04
+
+[--]
+
+[++~#FFEEEE~artic++]
+
+[~#FFEEEE~artic trousers]
+00429604 0000270F
+00429600 00FF3704
+
+[~#FFEEEE~artic backpack]
+00429604 0000270F
+00429600 00FF3804
+
+[~#FFEEEE~artic jacket]
+00429604 0000270F
+00429600 00FF3604
+
+[--]
+
+[++~#FFEEEE~kevlar++]
+
+[~#FFEEEE~kevlar jacket]
+00429604 0000270F
+00429600 00FF3304
+
+[~#FFEEEE~kevlar trousers]
+00429604 0000270F
+00429600 00FF3404
+
+[~#FFEEEE~kevlar backpack]
+00429604 0000270F
+00429600 00FF3504
+
+[--]
+
+[++~#FFEEEE~bling++]
+
+[~#FFEEEE~bling backpack]
+00429604 0000270F
+00429600 00FF3B04
+
+[~#FFEEEE~bling jacket]
+00429604 0000270F
+00429600 00FF3904
+
+[~#FFEEEE~bling trousers]
+00429604 0000270F
+00429600 00FF3A04
+
+[--]
+
+[++~#FFEEEE~cammo++]
+
+[~#FFEEEE~cammo jacket]
+00429604 0000270F
+00429600 00FF2D04
+
+[~#FFEEEE~cammo trousers]
+00429604 0000270F
+00429600 00FF2E04
+
+[~#FFEEEE~cammo backpack]
+00429604 0000270F
+00429600 00FF2F04
+
+[--]
+
+[++~#FFEEEE~military++]
+
+[~#FFEEEE~military trousers]
+00429604 0000270F
+00429600 00FF3104
+
+[~#FFEEEE~military backpack]
+00429604 0000270F
+00429600 00FF3204
+
+[~#FFEEEE~military jacket]
+00429604 0000270F
+00429600 00FF3004
+
+[--]
+
+[--]
+
+[++~#FFEEEE~knifes++]
+
+[troll knife]
+D3000000 00000000
+00429600 00FF0E03
+00429608 99999999
+D2000000 00000000
+{this knife breaks after 1 hit}
+
+[~#FFEEEE~hunting knife]
+00429600 00FF0E03
+
+[--]
+
+[++~#FFEEEE~ammo++]
+
+[~#FFEEEE~tranq darts]
+00429604 0000270F
+00429600 00FF1304
+
+[~#FFEEEE~pistol ammo]
+00429604 0000270F
+00429600 00FF0F04
+
+[~#FFEEEE~rifle ammo]
+00429604 0000270F
+00429600 00FF1104
+
+[~#FFEEEE~crossbow bolts]
+00429604 0000270F
+00429600 00FF1204
+
+[~#FFEEEE~shotgun ammo]
+00429604 0000270F
+00429600 00FF1004
+
+[--]
+
+[++~#FFEEEE~water++]
+
+[~#FFEEEE~large waterbottle]
+00429600 00FF2203
+
+[~#FFEEEE~waterbottle]
+00429600 00FF1D03
+
+[--]
+
+[++~#FFEEEE~food++]
+
+[~#FFEEEE~tuna]
+00429600 00FF1F03
+
+[~#FFEEEE~mint cake]
+00429600 00FF2303
+
+[~#FFEEEE~corned beef]
+00429600 00FF2103
+
+[~#FFEEEE~cooked fish]
+00429604 0000270F
+00429600 00FF4204
+
+[~#FFEEEE~cooked goose]
+00429600 00FF3F03
+
+[~#FFEEEE~beans]
+00429600 00FF2003
+
+[~#FFEEEE~snackbar]
+00429600 00FF1E03
+
+[--]
+
+[++~#FFEEEE~items++]
+
+[~#FFEEEE~minnow]
+00429600 00FF4003
+
+[~#FFEEEE~large fish]
+00429600 00FF4103
+
+[~#FFEEEE~logs]
+00429604 00000064
+00429600 00FF3D04
+
+[~#FFEEEE~matches]
+00429604 00000064
+00429600 00FF1404
+
+[~#FFEEEE~goose]
+00429600 00FF3E04
+
+[~#FFEEEE~engine part]
+00429604 00000003
+00429600 00FF4304
+
+[~#FFEEEE~fuel]
+00429604 00000003
+00429600 00FF1504
+
+[--]
+
+[++~#FFEEEE~meds++]
+
+[~#FFEEEE~antiseptic]
+00429600 00FF2403
+
+[~#FFEEEE~bandage]
+00429600 00FF2603
+
+[~#FFEEEE~dressing]
+00429600 00FF2703
+
+[~#FFEEEE~large bandage]
+00429600 00FF2803
+
+[~#FFEEEE~large dressing]
+00429600 00FF2903
+
+[~#FFEEEE~antibiotics]
+00429600 00FF2503
+
+[--]
+
+[++~#FFEEEE~guns++]
+
+[++~#FFEEEE~crossbows++]
+
+[~#FFEEEE~crossbow]
+00429600 00FF0A03
+
+[~#FFEEEE~hunting crossbow]
+00429600 00FF0B03
+
+[~#FFEEEE~artic hunting crossbow]
+00429600 00FF0C03
+
+[--]
+
+[++~#FFEEEE~shotguns++]
+
+[troll artic hunting shotgun]
+D3000000 00000000
+00429600 00FF0603
+00429608 99999999
+D2000000 00000000
+{this shotgun breaks after 1 shot}
+
+[~#FFEEEE~double barrel shotgun]
+00429600 00FF0403
+
+[~#FFEEEE~hunting shotgun]
+00429600 00FF0503
+
+[~#FFEEEE~artic hunting shotgun]
+00429600 00FF0603
+
+[--]
+
+[++~#FFEEEE~specials++]
+
+[~#FFEEEE~tranq gun]
+00429600 00FF0D03
+
+[~#FFEEEE~flame thrower]
+00429600 00FF4503
+
+[~#FFEEEE~flare gun]
+00429600 00FF4703
+
+[~#FFEEEE~ray gun]
+00429600 00FF4603
+
+[--]
+
+[++~#FFEEEE~pistols++]
+
+[~#FFEEEE~basic handgun]
+00429600 00FF0103
+
+[~#FFEEEE~artic handgun]
+00429600 00FF0203
+
+[~#FFEEEE~artic eagle handgun]
+00429600 00FF0303
+
+[--]
+
+[++~#FFEEEE~rifles++]
+
+[~#FFEEEE~hunting rifle]
+00429600 00FF0703
+
+[~#FFEEEE~scout hunting rifle]
+00429600 00FF0803
+
+[~#FFEEEE~artic hunting rifle]
+00429600 00FF0903
+
+[--]
+
+[--]
+
+[--]
+
